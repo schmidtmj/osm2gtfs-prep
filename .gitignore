@@ -1,5 +1,7 @@
 *.pyc
-*.zip
+*.zipgit
+*.csv
+*.json
 data
 old
 

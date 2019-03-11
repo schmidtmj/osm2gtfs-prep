@@ -1,0 +1,9 @@
+*.pyc
+data
+old
+
+Pipfile
+Pipfile.lock
+
+__pycache__
+.cache

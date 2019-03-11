@@ -1,0 +1,555 @@
+freq,to,fr,ref,dur
+8,Circle Lido,Abeka Lapaz,216,33
+8,Abeka Lapaz,Circle Lido,216,50
+5,Circle,WAEC,214,11
+5,WAEC,Circle,214,15
+5,Circle,Accra New Tema Station,212,21
+5,Accra New Tema Station,Circle,212,30
+10,Appiah Danquah,Accra Salaga,474,20
+10,Accra Salaga,Appiah Danquah,474,20
+5,Teachers Hall,Circle,210,16
+5,Circle,Teachers Hall,210,8
+10,Tema (Motorway),Circle,211,78
+10,Circle,Tema (Motorway),211,92
+5,Circle Overhead,Abeka Lapaz,219,31
+5,Abeka Lapaz,Circle Overhead,219,29
+15,Manhean,Accra CMB,227,75
+15,Accra CMB,Manhean,227,94
+20,Sapeiman,Abeka Lapaz,16,47
+20,Abeka Lapaz,Sapeiman,16,42
+10,Pigfarm,Circle,226,19
+10,Circle,Pigfarm,226,24
+40,Sukura,Nima-Mamobi,490,39
+40,Nima-Mamobi,Sukura,490,39
+55,Fan-Milk,Accra CMB,225,78
+55,Accra CMB,Fan-Milk,225,78
+10,Tabora Alhaji,Kaneshie Station,492,58
+10,Kaneshie Station,Tabora Alhaji,492,48
+10,Accra U.T.C,Abeka Main Market,26,50
+10,Abeka Main Market,Accra U.T.C,26,46
+5,Kaneshie,Atico,167,16
+5,Atico,Kaneshie,167,13
+5,Accra UTC,Abeka Lapaz,20,46
+5,Abeka Lapaz,Accra UTC,20,36
+40,Dome,Abeka Lapaz,21,26
+40,Abeka Lapaz,Dome,21,33
+20,Teshie Nungua,Abeka Lapaz,23,111
+20,Abeka Lapaz,Teshie Nungua,23,83
+30,Circle Industrial Area,Abeka Main Market,28,25
+30,Abeka Main Market,Circle Indust. Area,28,35
+5,Kaneshie,Abeka Main Market,29,29
+5,Abeka Main Market,Kaneshie,29,26
+20,Santa Maria,Abeka Lapaz,344,18
+20,Abeka Lapaz,Santa Maria,344,25
+20,Nima Overhead,Mallam,406,57
+20,Mallam,Nima Overhead,406,84
+5,Zongo Junction,Agege,540,20
+5,Agege,Zongo Junction,540,27
+60,Nima Overhead,Dome Railway Crossing,404,44
+60,Dome Railway Crossing,Nima Overhead,404,55
+5,Nima Overhead,Awoshie Last Stop,402,40
+5,Awoshie Last Stop,Nima Overhead,402,53
+40,Nima Overhead,Israel Lomnava,401,48
+40,Israel Lomnava,Nima Overhead,401,36
+5,Race Course,Abeka Lapaz,343,12
+5,Abeka Lapaz,Race Course,343,18
+30,Russia,Kaneshie,281,49
+30,Kaneshie,Russia,281,32
+20,Tema Community One Market,Abeka Lapaz,8,45
+20,Abeka Lapaz,Tema Community One Market,8,60
+10,Makola Tudu,Kaneshie Foot Bridge,283,40
+10,Kaneshie Foot Bridge,Makola Tudu,283,40
+3,Shalom,Kaneshie,282,26
+3,Kaneshie,Shalom,282,22
+15,Tetteh Quarshie,Abeka Lapaz,348,26
+15,Abeka Lapaz,Tetteh Quarshie,348,35
+5,Kaneshie Market Station,Agyapa Ye North Kaneshie,284,19
+5,Agyapa Ye North Kaneshie,Kaneshie Market Station,284,15
+10,North Industrial Area,Kaneshie Market Station,287,17
+10,Kaneshie Market Station,North Industrial Area,287,14
+40,Pokuase Amasaman,Nima Overhead,408,86
+40,Nima Overhead,Pokuase Amasaman,408,67
+20,Zamrama Line,Accra New Tema Station,995,34
+20,Accra New Tema Station,Zamrama Line,995,45
+40,Chemuna,Accra Rawlings Park,994,17
+40,Accra Rawlings Park,Chemuna,994,17
+10,Nima - Maamobi,Circle,996,50
+10,Circle,Nima - Maamobi,996,50
+15,SSNIT Flats,Circle Odorna,990,48
+15,Circle Odorna,SSNIT Flats,990,44
+30,Circle,Osu,454,25
+30,Osu,Circle,454,17
+35,Trade Fair (La),Accra New Tema Station,523,39
+35,Accra New Tema Station,Trade Fair (La),523,26
+8,Sowutuom,Abeka Lapaz,999,27
+8,Abeka Lapaz,Sowutuom,999,27
+15,Circle Overhead,Ashaiaman,998,56
+15,Ashaiaman,Circle Overhead,998,61
+25,Glefe,Accra Bishop,262,53
+25,Accra Bishop,Glefe,262,67
+40,Ebenezer,Accra Bishop,260,32
+40,Accra Bishop,Ebenezer,260,43
+7,Kaneshie,Appiah Danquah/ Soko,267,26
+7,Appiah Danquah/ Soko,Kaneshie,267,44
+20,Adenta,Abeka Lapaz,333,101
+20,Abeka Lapaz,Adenta,333,61
+12,Sukura,Kaneshie,265,17
+12,Kaneshie,Sukura,265,15
+10,Hansonic,Dansoman Last Stop,264,15
+10,Dansoman Last Stop,Hansonic,264,17
+5,Osu (37 Station),37 Lorry Park,2,23
+5,37 Lorry Park,Osu (37 Station),2,24
+25,Kaneshie,Bubuashie,269,6
+25,Bubuashie,Kaneshie,269,13
+30,Circle,Bubiashie Control (Old Station ),176,31
+30,Bubiashie Control (Old Station ),Circle,176,26
+5,Six to Six Market,Abeka Lapaz,58,9
+5,Abeka Lapaz,Six to Six Market,58,9
+40,Accra,Abelemkpe,61,40
+40,Abelemkpe,Accra,61,43
+30,Osu,Abeka Lapaz,55,54
+30,Abeka Lapaz,Osu,55,61
+15,Race Course,Abeka Lapaz,56,18
+15,Abeka Lapaz,Race Course,56,18
+15,Manhia Afuaman,Abeka Lapaz,51,52
+15,Abeka Lapaz,Manhia Afuaman,51,52
+10,Mallam Gbawe,Abeka Lapaz,50,33
+10,Abeka Lapaz,Mallam Gbawe,50,31
+30,Mayera,Abeka Lapaz,52,65
+30,Abeka Lapaz,Mayera,52,52
+10,Nima Station,Madina,414,89
+10,Madina,Nima Station,414,49
+10,Nyaho,Nima Station,415,25
+10,Nima Station,Nyaho,415,30
+10,Zambrama Line,Agbogbloshie 2,535,40
+10,Agbogbloshie 2,Zambrama Line,535,40
+15,Nima Station,Accra New Tema Station,417,37
+15,Accra New Tema Station,Nima Station,417,32
+10,Sukura Station,Nima Overhead,410,29
+10,Nima Overhead,Sukura Station,410,38
+0,Kokomlemle,Dzorwulu,298,40
+0,Dzorwulu,Kokomlemle,298,27
+20,Abeka Lapaz,Korle Bu,299,47
+20,Korle Bu,Abeka Lapaz,299,47
+10,Russia Last Stop,Kaneshie Takoradi Station,296,14
+10,Kaneshie Takoradi Station,Russia Last Stop,296,9
+5,Dzorwulu,Accra New Tema Station,373,
+5,Accra New Tema Station,Dzorwulu,373,
+15,New Russia Last Stop,Kaneshie Takoradi Station,295,10
+15,Kaneshie Takoradi Station,New Russia Last Stop,295,10
+10,Mamprobi C Lante,Kaneshie Takoradi Station,293,27
+10,Kaneshie Takoradi Station,Mamprobi C Lante,293,15
+15,Ashongman,Abeka Lapaz,377,43
+15,Abeka Lapaz,Ashongman,377,61
+30,Zambrama Line,Kaneshie,538,27
+30,Kaneshie,Zambrama Line,538,37
+20,Zongo Junction,Korle Bu,544,26
+20,Korle Bu,Zongo Junction,544,21
+15,Madina,Kwashieman,318,54
+15,Kwashieman,Kwashieman Junction,318,42
+15,Kwashieman,A Lang,313,21
+15,A Lang,Kwashieman,313,12
+9,Kotobabi Down,Abeka Lapaz,310,18
+9,Abeka Lapaz,Kotobabi Down,310,29
+17,Kwashieman,Abeka Lapaz,317,12
+17,Abeka Lapaz,Kwashieman,317,13
+15,Immesco Rice,Circle,193,14
+15,Circle,Immesco Rice,193,20
+20,Fadama Last stop,Circle,192,63
+20,Circle,Fadama Last stop,192,57
+15,Nima,Accra,393,20
+15,Accra,Nima,393,20
+25,Taifa,Achimota,114,35
+25,Achimota,Taifa,114,39
+20,Asofan,Achimota,88,63
+20,Achimota,Asofan,88,67
+30,Tema,Achimota,116,78
+30,Achimota,Tema,116,97
+60,Maamobi,Kaneshie,274,58
+60,Kaneshie,Maamobi,274,69
+15,Madina-Adenta,Kaneshie,275,78
+15,Kaneshie,Madina-Adenta,275,80
+10,Mamponse,Kaneshie,276,31
+10,Kaneshie,Mamponse,276,39
+15,Ashaiman Main Station,Achimota,112,46
+15,Achimota,Ashaiman Main Station,112,84
+45,Adjiringanor,Achimota,82,55
+45,Achimota,Adjiringanor,82,54
+10,Nima Overhead Maamobi,Achimota Terminal,399,58
+10,Achimota Terminal,Nima Overhead Maamobi,399,31
+20,Nima Mamobi,Ashiaman,398,87
+20,Ashiaman,Nima Mamobi,398,65
+10,Dome Pillar 2,Achimota,93,21
+10,Achimota,Dome Pillar 2,93,34
+45,Teshie-Nungua,Achimota,118,96
+45,Achimota,Teshie-Nungua,118,96
+50,Kuntunse/Satelite,Achimota,84,40
+50,Achimota,Kuntunse/Satelite,84,30
+45,Akweteman Zongo,Achimota,85,21
+45,Achimota,Akweteman Zongo,85,18
+10,Sukura,Arena,488,46
+10,Arena,Sukura,488,39
+15,Circle,Bubiashie Ayigbe Town,174,16
+15,Bubiashie Ayigbe Town,Circle,174,19
+5,Awoshie,Abeka Lapaz,378,36
+5,Abeka Lapaz,Awoshie,378,26
+30,Cantonment,Accra Bishop,173,
+30,Accra Bishop,Cantonment,173,
+2,Cantonments,Accra New Tema Station,416,37
+2,Accra New Tema Station,Cantonments,416,53
+20,Banana Inn,Accra New Tema Station,524,49
+20,Accra New Tema Station,Banana Inn,524,44
+5,Tsui Bleoo,Circle Odorna,428,37
+5,Circle Odorna,Tsui Bleoo,428,75
+10,Tse Addo,37 Lorry Park,3,30
+10,37 Lorry Park,Tse Addo,3,27
+5,Camara,Accra New Tema Station,520,50
+5,Accra New Tema Station,Camara,520,32
+15,Chemuna,Accra New Tema Station,521,60
+15,Accra New Tema Station,Chemuna,521,38
+15,Sukura,Accra New Tema Station,522,46
+15,Accra New Tema Station,Sukura,522,40
+10,Agbogbloshie,Accra New Tema Station,369,33
+10,Accra New Tema Station,Agbogbloshie,369,26
+15,Kotobabi Down,Accra New Tema Station,420,37
+15,Accra New Tema Station,Kotobabi Down,420,40
+10,Odorna,Nima Mamobi,423,45
+10,Nima Mamobi,Odorna,423,27
+15,Madina/Adenta,Circle Odorna,422,51
+15,Circle Odorna,Madina/Adenta,422,65
+1,Nungua,Circle Odorna,425,80
+1,Circle Odorna,Nungua,425,80
+10,Mataheko,Kaneshie,363,30
+10,Kaneshie,Mataheko,363,25
+60,Kotobabi Down,Accra CMB,308,40
+60,Accra CMB,Kotobabi Down,308,61
+6,Kotobabi Down,Circle Lido,309,33
+6,Circle Lido,Kotobabi Down,309,45
+5,Orgle Street,Kaneshie,449,13
+5,Kaneshie,Orgle Street,449,14
+30,Nima Station,Agbogbloshie,412,50
+30,Agbogbloshie,Nima Station,412,65
+5,Okponglo,Christian Centre,443,28
+5,Christian Centre,Okponglo,443,28
+20,Kasoa,Korle Bu,301,57
+20,Korle Bu,Kasoa,301,77
+15,Okponglo,American House,441,23
+15,American House,Okponglo,441,24
+25,Mallam,Korle Bu,303,46
+25,Korle Bu,Mallam,303,50
+10,Opetekwei,Accra New Tema Station,447,82
+10,Accra New Tema Station,Opetekwei,447,49
+10,Kaneshie,Dansoman,305,32
+10,Dansoman,Kaneshie,305,32
+30,Korle Bu,Darkuman,306,83
+30,Darkuman,Korle Bu,306,54
+30,Kotobabi Down,37,307,22
+30,37,Kotobabi Down,307,22
+5,Haatso,Abeka Lapaz,380,34
+5,Abeka Lapaz,Haatso,380,40
+40,Darkuman,Agbogbloshie,247,40
+40,Agbogbloshie,Darkuman,247,40
+20,Ashaiman Main Station,Accra New Tema Station,383,55
+20,Accra New Tema Station,Ashaiman Main Station,383,66
+40,Circle Overhead,Bawaleshie,241,62
+40,Bawaleshie,Circle Overhead,241,36
+10,Nyamekye,Dansoman,240,41
+10,Dansoman,Nyamekye,240,42
+60,New Town,Adenta,386,78
+60,Adenta,New Town,386,68
+20,Odorkor,Dansoman,242,28
+20,Dansoman,Odorkor,242,39
+15,Madina Station,Achimota,102,67
+15,Achimota,Madina Station,102,69
+irregular,Mallam Attah,Achimota,103,32
+irregular,Achimota,Mallam Attah,103,46
+20,Legon Station,Achimota,100,30
+20,Achimota,Legon Station,100,28
+20,Agbogbloshie,Opetekwei,444,77
+20,Opetekwei,Agbogbloshie,444,68
+15,Darkuman,Accra CMB,249,35
+15,Accra CMB,Darkuman,249,68
+20,Ofankor,Achimota,107,22
+20,Achimota,Ofankor,107,20
+30,Mayera/Adusa,Achimota,104,60
+30,Achimota,Mayera/Adusa,104,49
+20,Medie/Kotoku,Achimota,105,83
+20,Achimota,Medie/Kotoku,105,73
+5,Antie-Eku Pallas Town,Abeka Lapaz,39,27
+5,Abeka Lapaz,Antie-Eku Pallas Town,39,37
+30,Amasaman,Abeka Lapaz,38,49
+30,Abeka Lapaz,Amasaman,38,40
+15,37,Abeka Lapaz,31,30
+15,Abeka Lapaz,37,31,26
+30,Mallam Atta,Abeka Main Market,30,28
+30,Abeka Main Market,Mallam Atta,30,28
+20,Agbogbloshie,Abeka Lapaz,36,103
+20,Abeka Lapaz,Agbogbloshie,36,52
+25,Agape,Abeka Lapaz,35,35
+25,Abeka Lapaz,Agape,35,35
+15,Odorna,Agblezah,419,50
+15,Agblezah,Odorna,419,50
+15,Opetekwei,Circle,445,50
+15,Circle,Opetekwei,445,50
+8,Kaneshie Takoradi Station,Dansoman Last Stop,290,27
+8,Dansoman Last Stop,Kaneshie Takoradi Station,290,19
+8,Odorkor,Accra New Tema Station,438,47
+8,Accra New Tema Station,Odorkor,438,56
+20,Accra New Tema Station,Abelemkpe,368,62
+20,Abelemkpe,Accra New Tema Station,368,51
+10,Official Town,Odorkor,436,16
+10,Odorkor,Official Town,436,11
+15,South Odorkor,Odorkor,437,19
+15,Odorkor,South Odorkor,437,19
+8,Odorkor,Anyah,434,34
+8,Anyah,Odorkor,434,36
+10,Odorkor,Kasoa,435,34
+10,Kasoa,Odorkor,435,34
+10,Korle Bu,Circle Odorna,431,37
+10,Circle Odorna,Korle Bu,431,37
+30,Pigfarm,Accra CMB,458,34
+30,Accra CMB,Pigfarm,458,93
+20,Madina,Abeka Lapaz,339,36
+20,Abeka Lapaz,Madina,339,77
+45,Lomnava,Abeka Lapaz,338,34
+45,Abeka Lapaz,Lomnava,338,32
+10,Orgle-Road,Kaneshie,452,20
+10,Kaneshie,Orgle-Road,452,13
+30,Alhaji,Abeka Lapaz,336,16
+30,Abeka Lapaz,Alhaji,336,20
+5,Accra,Abeka Lapaz,331,66
+5,Abeka Lapaz,Accra,331,34
+15,Osu,Kaneshie,455,54
+15,Kaneshie,Osu,455,63
+10,Osu,Madina,456,105
+10,Madina,Osu,456,65
+20,Kasoa,Accra New Town,388,84
+20,Accra New Town,Kasoa,388,70
+20,Kasoa,Abossey-Okai,64,45
+20,Abossey-Okai,Kasoa,64,46
+20,Darkuman,Accra,65,31
+20,Accra,Darkuman,65,25
+60,Nima,Accra,66,37
+60,Accra,Nima,66,33
+10,Madina,Accra New Town,389,53
+10,Accra New Town,Madina,389,59
+10,Circle,Bubiashie-Atico,177,23
+10,Bubiashie-Atico,Circle,177,26
+20,Okponglo,Bawaleshie,442,8
+20,Bawaleshie,Okponglo,442,8
+25,Banana Inn/Dansoman,Agbogbloshie,175,28
+25,Agbogbloshie,Banana Inn/Dansoman,175,29
+27,Darkuman,Accra Post - Office,251,37
+27,Accra Post - Office,Darkuman,251,47
+45,Adjiringanor,Accra New Tema Station,256,66
+45,Accra New Tema Station,Adjiringanor,256,66
+20,Banana Inn,Accra New Tema Station,172,40
+20,Accra New Tema Station,Banana Inn,172,35
+60,Dzorwulu,Circle,254,54
+60,Circle,Dzorwulu,254,41
+10,Banana Inn,Accra Post Office,170,36
+10,Accra Post Office,Banana Inn,170,13
+15,Zongo Junction,Chorkor,542,16
+15,Chorkor,Zongo Junction,542,26
+15,Accra New Town,37,385,25
+15,37,Accra New Town,385,33
+5,Good Shepherd,Kaneshie,272,10
+5,Kaneshie,Good Shepherd,272,10
+3,Swanlake,Kaneshie,288,12
+3,Kaneshie,Swanlake,288,12
+10,Nima Overhead,Lapaz-Nii Boi Junction,405,30
+10,Lapaz-Nii Boi Junction,Nima Overhead,405,30
+15,Santa Maria,Dansoman,243,48
+15,Dansoman,Santa Maria,243,37
+40,Bubuashie Ayigbe Town,Accra CMB,178,24
+40,Accra CMB,Bubuashie Ayigbe Town,178,39
+40,Tema,Abeka Lapaz,347,45
+40,Abeka Lapaz,Tema,347,52
+15,Nima Maamobi,Accra New Town,391,14
+15,Accra New Town,Nima Maamobi,391,16
+25,Chorkor,Agbogbloshie,185,21
+25,Agbogbloshie,Chorkor,185,34
+10,Circle,Asore Danho,188,33
+10,Asore Danho,Circle,188,55
+20,Zambrama Line,Arena,536,33
+20,Arena,Zambrama Line,536,99
+45,Ashaiman Main Station,Abeka Lapaz,4,42
+45,Abeka Lapaz,Ashaiman Main Station,4,43
+10,Kotobabi Down Polo Park,Circle,196,61
+10,Circle,Kotobabi Down Polo Park,196,61
+10,Nungua Authority,Accra Rawlings Park,469,47
+10,Accra Rawlings Park,Nungua Authority,469,59
+25,Omanjor,Abeka Lapaz,342,122
+25,Abeka Lapaz,Omanjor,342,68
+15,Sakaman Blue Lagoon,Accra Rawlings Park,467,36
+15,Accra Rawlings Park,Sakaman Blue Lagoon,467,32
+10,Sakumono Estate,Abeka Lapaz,6,66
+10,Abeka Lapaz,Sakumono Estate,6,80
+5,Mamprobi,Accra Post Office,463,20
+5,Accra Post Office,Mamprobi,463,26
+10,Legon,Achimota,99,27
+10,Achimota,Legon,99,26
+15,Abeka Lapaz,Achimota,98,27
+15,Achimota,Abeka Lapaz,98,17
+5,Odorkor,Accra CMB,228,40
+5,Accra CMB,Odorkor,228,40
+15,Kaneshie,Arena,164,34
+15,Arena,Kaneshie,164,34
+10,Darkuman,Achimota,90,29
+10,Achimota,Darkuman,90,44
+40,Russia,Arena,166,50
+40,Arena,Russia,166,50
+15,Dome /Ashongman Estates,Achimota,92,51
+15,Achimota,Dome /Ashongman Estates,92,63
+5,Accra CMB,Ablekuma,223,78
+5,Ablekuma,Accra CMB,223,62
+10,Nima mamobi,Circle Overhead,222,32
+10,Circle Overhead,Nima mamobi,222,40
+15,Madina,Circle Overhead,221,80
+15,Circle Overhead,Madina,221,80
+10,Apapa,Accra New Tema Station,163,37
+10,Accra New Tema Station,Apapa,163,57
+10,Circle Accra,Abeka Lapaz,11,37
+10,Abeka Lapaz,Circle Accra,11,42
+5,Amasaman,Abeka Lapaz,10,29
+5,Abeka Lapaz,Amasaman,10,35
+50,Dome Kwabenya,Abeka Lapaz,15,52
+50,Abeka Lapaz,Dome Kwabenya,15,53
+10,Kaneshie,Chorkor,271,25
+10,Chorkor,Kaneshie,271,20
+11,Kotokuo,Abeka Lapaz,19,63
+11,Abeka Lapaz,Kotokuo,19,61
+10,Kasoa,Abeka Lapaz,18,70
+10,Abeka Lapaz,Kasoa,18,87
+25,Odorna,Nungua,424,45
+25,Nungua,Odorna,424,45
+45,Kwashieman,Achimota,314,59
+45,Achimota,Kwashieman,314,46
+60,Accra New Tema Station,Achimota,117,74
+60,Achimota,Accra New Tema Station,117,98
+1,Yellow House,Abeka Lapaz,349,23
+1,Abeka Lapaz,Yellow House,349,25
+15,Korlebu,Kaneshie,273,16
+15,Kaneshie,Korlebu,273,19
+7,New Fadama,Kaneshie Market Station,286,25
+7,Kaneshie Market Station,New Fadama,286,28
+30,Alajo,Accra CMB,224,55
+30,Accra CMB,Alajo,224,38
+5,Kaneshie,Akoto Lante,155,20
+5,Akoto Lante,Kaneshie,155,27
+5,Nima,Circle,395,21
+5,Circle,Nima,395,18
+10,Circle,Alajo,157,26
+10,Alajo,Circle,157,12
+0,Kotobabi Police Station,Alajo Junction,159,12
+0,Alajo Junction,Kotobabi Police Station,159,9
+25,Nima Overhead Maamobi,Alajo Station,400,19
+25,Alajo Station,Nima Overhead Maamobi,400,39
+8,Mamprobi Alhaji,Kaneshie,277,25
+8,Kaneshie,Mamprobi Alhaji,277,20
+25,Kwashieman/Santa Maria,Korle Bu,302,52
+25,Korle Bu,Kwashieman/Santa Maria,302,44
+20,New town,Kaneshie,278,64
+20,Kaneshie,New Town,278,61
+45,Dansoman,Circle,238,62
+45,Circle,Dansoman,238,74
+60,Dansoman,Achimota,235,46
+60,Achimota,Dansoman,235,65
+5,Dansoman,Arena,236,54
+5,Arena,Dansoman,236,59
+10,Dansoman,Awoshie,237,37
+10,Awoshie,Dansoman,237,26
+25,Omanjor,Accra CMB,230,86
+25,Accra CMB,Omanjor,230,72
+20,Weija,Accra CMB,231,86
+20,Accra CMB,Weija,231,67
+45,La Olympia,Accra Rawlings Park,468,28
+45,Accra Rawlings Park,La Olympia,468,40
+35,Mallam Attah,Kotobabi Down/Polo park,357,25
+35,Kotobabi Down/Polo park,Mallam Attah,357,38
+15,Adenta Station,Achimota,81,66
+15,Achimota,Adenta Station,81,49
+20,Korle Bu,Abeka Lapaz,48,37
+20,Abeka Lapaz,Korle Bu,48,47
+5,Mallam Atta,Achimota,356,44
+5,Achimota,Mallam Atta,356,46
+10,Kaneshie,Abeka Lapaz,46,75
+10,Abeka Lapaz,Kaneshie,46,72
+10,Bubiashie,Abeka Lapaz,43,35
+10,Abeka Lapaz,Bubiashie,43,18
+30,Ashiaman,Abeka Lapaz,40,58
+30,Abeka Lapaz,Ashiaman,40,53
+20,Asofan,Abeka Lapaz,41,75
+20,Abeka Lapaz,Asofan,41,49
+40,Kwashieman Junction,Accra CMB,322,38
+40,Accra CMB,Kwashieman Junction,322,74
+10,Sowutuom,Kwashieman Junction,326,15
+10,Kwashieman Junction,Sowutuom,326,31
+15,Kwashieman Junction,Antie Aku,324,26
+15,Antie Aku,Kwashieman Junction,324,22
+5,Santa Maria,Kwashieman Junction,325,10
+5,Kwashieman Junction,Santa Maria,325,10
+20,Adeyman,Abeka Lapaz,9,94
+20,Abeka Lapaz,Adeyman,9,94
+40,Rawlings Park,Kwashieman Junction,328,53
+40,Kwashieman Junction,Rawlings Park,328,52
+5,New Melcom,Circle,200,21
+5,Circle,New Melcom,200,7
+7,Orgle Road,Circle,203,
+7,Circle,Orgle Road,203,
+5,Novotel,Circle,202,17
+5,Circle,Novotel,202,15
+5,Osu RE,Circle,205,81
+5,Circle,Osu RE,205,32
+5,Osu Presby,Circle,204,22
+5,Circle,Osu Presby,204,21
+5,Ridge Hospital,Circle,207,11
+5,Circle,Ridge Hospital,207,14
+15,Osu RE,Circle,206,26
+15,Circle,Osu RE,206,24
+5,Swanlake Last Stop,Circle,209,17
+5,Circle,Swanlake Last Stop,209,13
+5,Stadium,Circle,208,12
+5,Circle,Stadium,208,16
+60,Nima,Ashaiman,394,59
+60,Ashaiman,Nima,394,80
+15,East Legon,Circle,255,71
+15,Circle,East Legon,255,55
+10,37,Achimota,76,24
+10,Achimota,37,76,38
+15,Caprice,Accra New Town,72,20
+15,Accra New Town,Caprice,72,20
+10,American House,Accra End of the Motorway,71,17
+10,Accra End of the Motorway,American House,71,21
+5,Adjringanor/Otanor,Accra End of the Motorway,70,17
+5,Accra End of the Motorway,Adjringanor/Otanor,70,33
+10,Soko,Accra Post Office,486,38
+10,Accra Post Office,Soko,486,31
+15,Soko,Accra Post Office,485,36
+15,Accra Post Office,Soko,485,32
+50,Shiabu,Agbogbloshie,480,46
+50,Agbogbloshie,Shiabu,480,63
+10,Taifa,Abeka Lapaz,7,32
+10,Abeka Lapaz,Taifa,7,36
+10,Korle Bu,Kaneshie Takoradi Station,291,14
+10,Kaneshie Takoradi Station,Korle Bu,291,16
+10,Kaneshie,Camara,270,20
+10,Camara,Kaneshie,270,21
+10,Chemuna,Accra Salaga,473,20
+10,Accra Salaga,Chemuna,473,20
+irregular,Osu Penta Hotel,Accra Rawlings Park,470,27
+irregular,Accra Rawlings Park,Osu Penta Hotel,470,44
+7,Camara,Accra Salaga,476,25
+7,Accra Salaga,Camara,476,25
+10,Legon,Dome,351,57
+10,Dome,Legon,351,37
+20,New Fadama,Accra CMB,367,37
+20,Accra CMB,New Fadama,367,34
+30,Ashaiman,Abeka Lapaz,337,35
+30,Abeka Lapaz,Ashaiman,337,37
+10,Pigfarm,Accra New Tema Station,376,35
+10,Accra New Tema Station,Pigfarm,376,32
+15,Zambrama Line,Odorna-Circle,539,31
+15,Odorna-Circle,Zambrama Line,539,45
+10,Afropa,Kaneshie,266,26
+10,Kaneshie,Afropa,266,18

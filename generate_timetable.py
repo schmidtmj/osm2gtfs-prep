@@ -47,7 +47,7 @@ def generate_json(input_data, header_data):
 
             exceptions = []
             if 'opening-hours' not in data.keys():
-                data['opening-hours'] = 'Mo-Sa 10:00-17:00'
+                data['opening-hours'] = 'Mo-Sa 08:00-20:00'
 
             if data['dur'] is None or data['dur'] == '':
                 data['dur'] = 120
@@ -60,7 +60,6 @@ def generate_json(input_data, header_data):
                 data['freq'] = 10
             else:
                 data['freq'] = float(data['freq'])
-
 
             # Prepare schedule
             opening_services = convert_opening_hrs(data['opening-hours'].split(";"))

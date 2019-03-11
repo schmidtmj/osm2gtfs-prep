@@ -1,5 +1,5 @@
 *.pyc
-*.zipgit
+*.zip
 *.csv
 *.json
 data
